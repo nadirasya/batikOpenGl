@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1606916661 source:c:\users\rasya\documents\semester 5\komputer grafik\tugas2\main.cpp
+	<iostream>
+	<graphics.h>
+	<string>
+	<conio.h>
+	<math.h>
+	"stroke.h"
+	"shapes.h"
+	"utils.h"
+	"transformation.h"
+
+1604644551 c:\users\rasya\documents\semester 5\komputer grafik\tugas2\stroke.h
+
+1604646471 source:c:\users\rasya\documents\semester 5\komputer grafik\tugas2\stroke.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<string>
+	<dos.h>
+	"stroke.h"
+
+1606916437 source:c:\users\rasya\documents\semester 5\komputer grafik\tugas2\shapes.cpp
+	"shapes.h"
+	"stroke.h"
+	"transformation.h"
+	"graph.h"
+	"utils.h"
+	<graphics.h>
+	<dos.h>
+	<conio.h>
+	<math.h>
+	<iostream>
+
+1606916574 c:\users\rasya\documents\semester 5\komputer grafik\tugas2\shapes.h
+
+1606916362 c:\users\rasya\documents\semester 5\komputer grafik\tugas2\utils.h
+
+1606916656 source:c:\users\rasya\documents\semester 5\komputer grafik\tugas2\utils.cpp
+	<iostream>
+	<graphics.h>
+	<string>
+	<conio.h>
+	<math.h>
+	"stroke.h"
+	"shapes.h"
+	"utils.h"
+	"transformation.h"
+	"graph.h"
+
+1606838038 source:c:\users\rasya\documents\semester 5\komputer grafik\tugas2\transformation.cpp
+	<iostream>
+	<graphics.h>
+	<string>
+	<complex>
+	<conio.h>
+	<math.h>
+	"transformation.h"
+	"stroke.h"
+
+1606195286 c:\users\rasya\documents\semester 5\komputer grafik\tugas2\transformation.h
+
+1606024367 source:c:\users\rasya\documents\semester 5\komputer grafik\tugas2\graph.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<dos.h>
+	"graph.h"
+
+1605090132 c:\users\rasya\documents\semester 5\komputer grafik\tugas2\graph.h
+
+1606024368 source:c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\graph.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<dos.h>
+	"graph.h"
+
+1605090134 c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\graph.h
+
+1606916662 source:c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\main.cpp
+	<iostream>
+	<graphics.h>
+	<string>
+	<conio.h>
+	<math.h>
+	"stroke.h"
+	"shapes.h"
+	"utils.h"
+	"transformation.h"
+
+1604644552 c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\stroke.h
+
+1606916576 c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\shapes.h
+
+1606916364 c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\utils.h
+
+1606195288 c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\transformation.h
+
+1606916438 source:c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\shapes.cpp
+	"shapes.h"
+	"stroke.h"
+	"transformation.h"
+	"graph.h"
+	"utils.h"
+	<graphics.h>
+	<dos.h>
+	<conio.h>
+	<math.h>
+	<iostream>
+
+1604646472 source:c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\stroke.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<string>
+	<dos.h>
+	"stroke.h"
+
+1606838040 source:c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\transformation.cpp
+	<iostream>
+	<graphics.h>
+	<string>
+	<complex>
+	<conio.h>
+	<math.h>
+	"transformation.h"
+	"stroke.h"
+
+1606916658 source:c:\users\nadir\onedrive\documents\semester 5\komputer grafik\[gk_b_2018]_ets_batik2d_181511059_versi2\[gk_b_2018]_ets_batik2d_181511059_versi2\181511059_cg_uts_1_sourcecode_versi2\utils.cpp
+	<iostream>
+	<graphics.h>
+	<string>
+	<conio.h>
+	<math.h>
+	"stroke.h"
+	"shapes.h"
+	"utils.h"
+	"transformation.h"
+	"graph.h"
+
